@@ -1,0 +1,18 @@
+# Ignore local configuration files
+config.php
+
+# Ignore PHPStorm / VS Code / IDE files
+.idea/
+.vscode/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.cache
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore Composer vendor directory if added later
+vendor/
