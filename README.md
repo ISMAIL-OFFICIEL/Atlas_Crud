@@ -18,3 +18,7 @@ Configurez vos propres identifiants administrateur. Ne publiez jamais de mot de 
 - `employees.php` : gestion des employés
 - `db.php` : connexion PDO
 - `auth.php` : authentification
+
+# Authentification
+User: admin@yahoo.ma
+Password: admin@1
