@@ -8,9 +8,9 @@ Application de gestion des ressources humaines en PHP.
 2. Modifier les paramètres de base de données
 3. Lancer le serveur PHP ou XAMPP
 
-## Connexion
-- Email admin : `admin@yahoo.ma`
-- Mot de passe : `Admin@1234` (ou `admin@1` si tu as appliqué ce nouveau hash)
+## Sécurité
+
+Configurez vos propres identifiants administrateur. Ne publiez jamais de mot de passe ni de hash de mot de passe dans le dépôt.
 
 ## Structure
 - `login.php` : connexion
